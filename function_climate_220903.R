@@ -19,11 +19,6 @@
 # dir <-   "~/Google Drive/My Drive/" # maclaptop 
 # dir <- "D:/Folder Share IP 8/" # PC Kantor
  dir <- "D:/"
-
- 
- # Password mysql Azure
- user.name <- 'adisapoetro'
- pass <- 'gedungbaru09!'
  
  
 # Load Library                                                          ----
